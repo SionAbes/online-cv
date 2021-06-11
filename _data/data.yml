@@ -109,10 +109,15 @@ projects:
         I thoroughly enjoy cloud transformation projects, and feel I excell with serverless or kubernetes!
     assignments:
       - title: Q-Engine
+        link: "#hook"
         tagline: "A Kubernetes Orchestration Engine, for timed parallel and sychronous AI microservices"
+        
       - title: Python API Refactoring
+        link: "#"
         tagline: "Managed the refactored of a legacy poorly documented FlaskAPI to a modern, containerised, FastAPI"
+        
       - title: Hybrid ML Learning System
+        link: "#"
         tagline: "Co-Developed a system designed to automatically retrain ML models via user input
 skills:
     title: Skills &amp; Proficiency
