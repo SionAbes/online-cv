@@ -54,6 +54,9 @@ education:
       time: 2014-2018
       details: |
         Graduated with a First Class Honours degree, with a project specialising in a two-way communications subsystem for a CubeSat
+    - degree: Officer Cadet Graduation
+      university: Welbeck Defence Sixthform College - Royal Air Force
+      time: 2012-2014
 experiences:
     - role: Cloud Engineer
       time: Jan 2021 - Present
