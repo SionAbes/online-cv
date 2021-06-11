@@ -55,43 +55,51 @@ education:
       details: |
         Graduated with a First Class Honours degree, with a project specialising in a two-way communications subsystem for a CubeSat
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Cloud Engineer
+      time: Jan 2021 - Present
+      company: corrux GmbH, Munich, Germany
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Natural pivot from traditional backend programming into a more operative role, 
+        creating CICD pipelines, running cloud native software, architecting clusters, 
+        designing scalable ingestion pipelines, and being the release manager for the team.
+    - role: Backend Engineer
+      time: Feb 2020 - Jan 2021
+      company: corrux GmbH, Munich, Germany
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        As a Backend Engineer I helped deliver machine-to-user pipelines to facilitate 
+        effective usage of heavy industrial data. Being in the forefront of cloud native 
+        innovation, I create solutions using technologies such as Kubernetes, Azure, Python 
+        & Go to create fast, resource efficient, and most importantly scalable to the needs 
+        of our customers.
+
+        As part of a team effort, self-organised a major architectural overhaul of our backend 
+        to meet production standard scalable software. This involved moving from container 
+        orchestration to a Azure based serverless application, utilising Kafka messaging service, 
+        C#/Python Azure Functions and switching from an outdated and bulky Flask API to Fast API. 
+        Was able to provision over 1 billion datapoints in 24hours, and process them into relevant 
+        timeseries tables.
+
+        Combined with the tech aspects of my duties, I became the Agile Coach of the team to 
+        support our CTOs new vision on way of working, and help facilitate team alignment through the 
+        working methods of Agile.
+    - role: Software Developer
+      time: May 2019 - Feb 2020
+      company: ProSiebenSat.1 Tech Solutions
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Moved from Data Technology into the newly formed AI Platform Services team in ProSiebenSat.1 
+        Tech Solutions as a full Software Developer! Completely refactored our AI Platform Project, 
+        from a legacy single code base, into a cloud distributed micro-service framework using Kubernetes, 
+        GitLab, AWS, GCP and various third party machine learning frameworks.
+    - role: Junior Software Developer
+      time: Sept 2018 - May 2019
+      company: ProSiebenSat.1 Media SE
+      details: |
+        As a Junior Software Developer in the Department of Data Technology, I contributed to the development 
+        of backend related services for containerising machine learning sequences, working with Python3 and SQL. 
+        I mainly worked with the systems administration of Linux based servers and worked alongside senior developers 
+        on a cloud transformation project, which involved moving our internal systems to cloud platforms such as 
+        Google Cloud Platform and AWS. Alongside this, I am worked extensively on developing a new workflow mechanism, 
+        using a queuing system for ML services.
 projects:
     title: Projects
     intro: >
