@@ -32,7 +32,7 @@ sidebar:
       - item: Skiing
         link:
 
-      - item: Dog Walking
+      - item: Huge Kubernetes and Serverless Advocate
         link:
 
       - item: Programming
@@ -44,6 +44,7 @@ career-profile:
         Welsh-born German speaking backend engineer with a focus on cloud native technologies I'm always looking 
         for the latest and greatest advancements in DevOps and Cloud to help enhance industries on their path to digitisation. 
         I'm at my best with a strong, multi-disciplined, goal-orientated team working in an agile-scrum format. 
+        
         I have a strong skill set in system architecture, cloud enablement, and cluster orchestration and design. 
         My programming skills are specialised in postgreSQL, TimescaleDB, Python3, and C# with DevOps skills specialised in 
         Docker, Kubernetes, Azure and Kafka.
