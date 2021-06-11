@@ -106,9 +106,8 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        I've mainly worked on backend oriented projects, but I'm really not afraid to get my hands a bit dirty on some legacy code!
+        I thoroughly enjoy cloud transformation projects, and feel I excell with serverless or kubernetes!
     assignments:
       - title: Q-Engine
         tagline: "A Kubernetes Orchestration Engine, for timed parallel and sychronous AI microservices"
