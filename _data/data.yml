@@ -73,6 +73,8 @@ experiences:
         bug took out all container networking within our clusters. Due to the work on Helm Charts, I 
         successfully migrated over 15 microservices within 1 hour to a fresh new cluster, 
         which would have otherwise taken over a day with all of the configurations.
+        
+        Due to the work on our platform, and only with a team of 5 developers, corrux was successfully aquirred by GROPYUS!
 
         - Helm Charts
         - Kubernetes
