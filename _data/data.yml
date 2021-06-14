@@ -73,6 +73,14 @@ experiences:
         bug took out all container networking within our clusters. Due to the work on Helm Charts, I 
         successfully migrated over 15 microservices within 1 hour to a fresh new cluster, 
         which would have otherwise taken over a day with all of the configurations.
+
+        - Helm Charts
+        - Kubernetes
+        - GitHub Actions
+        - KubeApps
+        - Sentry.io
+        - DevOps
+        - Python3
     - role: Backend Engineer
       time: Feb 2020 - Jan 2021
       company: corrux GmbH, Munich, Germany
@@ -93,6 +101,16 @@ experiences:
         Combined with the tech aspects of my duties, I became the Agile Coach of the team to 
         support our CTOs new vision on way of working, and help facilitate team alignment through the 
         working methods of Agile.
+
+        - Kubernetes
+        - Apache Kafka
+        - Flink
+        - Docker
+        - Python3
+        - C#
+        - FastAPI
+        - PostgreSQL
+        - TimescaleDB
     - role: Software Developer
       time: May 2019 - Feb 2020
       company: ProSiebenSat.1 Tech Solutions
@@ -101,6 +119,12 @@ experiences:
         Tech Solutions as a full Software Developer! Completely refactored our AI Platform Project, 
         from a legacy single code base, into a cloud distributed micro-service framework using Kubernetes, 
         GitLab, AWS, GCP and various third party machine learning frameworks.
+
+        - Kubernetes
+        - Docker
+        - Python3
+        - FFMPEG
+        - PostgreSQL
     - role: Junior Software Developer
       time: Sept 2018 - May 2019
       company: ProSiebenSat.1 Media SE
@@ -111,6 +135,11 @@ experiences:
         on a cloud transformation project, which involved moving our internal systems to cloud platforms such as 
         Google Cloud Platform and AWS. Alongside this, I am worked extensively on developing a new workflow mechanism, 
         using a queuing system for ML services.
+
+        - Docker
+        - Python3
+        - PostgreSQL
+        - Java
 projects:
     title: Projects
     intro: >
