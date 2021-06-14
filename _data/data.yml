@@ -106,6 +106,7 @@ experiences:
 
         - Kubernetes
         - Apache Kafka
+        - Azure Serverless Functions
         - Flink
         - Docker
         - Python3
