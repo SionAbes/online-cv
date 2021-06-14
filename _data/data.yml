@@ -62,9 +62,17 @@ experiences:
       time: Jan 2021 - Present
       company: corrux GmbH, Munich, Germany
       details: |
-        Natural pivot from traditional backend programming into a more operative role, 
-        creating CICD pipelines, running cloud native software, architecting clusters, 
-        designing scalable ingestion pipelines, and being the release manager for the team.
+        Remote worker who refactored, and built up the deployment and operations of the corrux platform. 
+        During my 6 months specialising in DevOps, I rebuilt all our CICD pipelines into a best-in-class 
+        deployment system using GitHub Actions and Helm. Alongside this, I help setup local dev environments 
+        using a Helm Repository and KubeApps to enable developers to pick-and-choose the microservices 
+        they wish to run in a local environment.
+
+        With help from the CTO, we re-imagined our QA system which led to a dramatic decrease in the bugs 
+        detected in our production environment. I also managed a crisis situation whereby an Azure Kubernetes 
+        bug took out all container networking within our clusters. Due to the work on Helm Charts, I 
+        successfully migrated over 15 microservices within 1 hour to a fresh new cluster, 
+        which would have otherwise taken over a day with all of the configurations.
     - role: Backend Engineer
       time: Feb 2020 - Jan 2021
       company: corrux GmbH, Munich, Germany
