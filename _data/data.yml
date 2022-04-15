@@ -70,23 +70,23 @@ experiences:
     time: August 2021 - Present
     company: Tacto Technology GmbH, Munich, Germany
     details: |
-    First of 10 to be employed at Tacto, I worked as a Full-Stack Engineer, with
-    a lean towards backend development! I helped enabled the platform built for 
-    sustainable procurement, by migrating from Django and producing a FastAPI 
-    backend designed with Domain Driven Design, Repository Pattern, Unit of Work
-    Pattern, Authorization, Authentication, Dynamic Migrations with Alembic and
-    auto-generated API specification for Frontend/Backend contracts!
-
-    - Python3.9+
-    - React.js
-    - MaterialUI v5
-    - FastAPI
-    - Pydantic
-    - SQLAlchemy
-    - Kubernetes
-    - Helm
-    - ArgoCI
-    - GitLab CI
+      First of 10 to be employed at Tacto, I worked as a Full-Stack Engineer, with
+      a lean towards backend development! I helped enabled the platform built for 
+      sustainable procurement, by migrating from Django and producing a FastAPI 
+      backend designed with Domain Driven Design, Repository Pattern, Unit of Work
+      Pattern, Authorization, Authentication, Dynamic Migrations with Alembic and
+      auto-generated API specification for Frontend/Backend contracts!
+  
+      - Python3.9+
+      - React.js
+      - MaterialUI v5
+      - FastAPI
+      - Pydantic
+      - SQLAlchemy
+      - Kubernetes
+      - Helm
+      - ArgoCI
+      - GitLab CI
 
   - role: Cloud Engineer
     time: Jan 2021 - August 2021
