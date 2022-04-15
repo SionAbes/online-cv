@@ -192,24 +192,24 @@ projects:
   assignments:
     - title: FastAPI-Mail (Open Source)
       tagline: | 
-      Contributed by implemented a parser for mail headers, allowing custom
-      headers to be applied, enabling metric collection by third-party providers
+        Contributed by implemented a parser for mail headers, allowing custom
+        headers to be applied, enabling metric collection by third-party providers
       link: https://github.com/sabuhish/fastapi-mail/pull/118
     - title: Full-Stack Portfolio
       tagline: | 
-      This is my evolving portfolio, that displays all my knowledge of
-      programming. The system ingests data from AEMP2.0 Construction Platforms,
-      and orchestrates them. Allows users to add machines, metrics, and 
-      generates weekly/monthly pdf reports.
+        This is my evolving portfolio, that displays all my knowledge of
+        programming. The system ingests data from AEMP2.0 Construction Platforms,
+        and orchestrates them. Allows users to add machines, metrics, and 
+        generates weekly/monthly pdf reports.
       link: https://github.com/SionAbes/fullstack-portfolio
     - title: Q-Engine
       tagline: | 
-      A Kubernetes Orchestration Engine, for timed parallel and sychronous AI 
-      microservices.
+        A Kubernetes Orchestration Engine, for timed parallel and sychronous AI 
+        microservices.
     - title: Hybrid ML Learning System
       tagline: |
-      Co-Developed a system with Luminovo GmbH to automatically retrain ML 
-      models via user input.
+        Co-Developed a system with Luminovo GmbH to automatically retrain ML 
+        models via user input.
 
 skills:
   title: Skills &amp; Proficiency
