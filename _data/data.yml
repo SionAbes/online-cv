@@ -3,187 +3,234 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Siôn Nicholas Abraham
-    tagline: Cloud Engineer/DevOps Engineer
-    avatar: image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Siôn Nicholas Abraham
+  tagline: Python Web-Development Engineer
+  avatar: image.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: sionabraham95@gmail.com
-    phone: +49 176 455 02327
-    linkedin: sionabraham
-    github: sionabes
-    telegram: sionabraham # add your nickname without '@' sign
+  # Sidebar links
+  email: sionabraham95@gmail.com
+  phone: +49 176 455 02327
+  linkedin: sionabraham
+  github: sionabes
+  telegram: sionabraham # add your nickname without '@' sign
 
-    languages:
-      - idiom: English
-        level: Native
+  languages:
+    - idiom: English
+      level: Native - C2
 
-      - idiom: Welsh
-        level: Native
+    - idiom: Cymraeg
+      level: Native - C2
 
-      - idiom: German
-        level: Professional
+    - idiom: Deutsch
+      level: Professional - B1
 
-    interests:
-      - item: Skiing
-        link:
+    - idiom: Українська
+      level: Beginner - A1.2
 
-      - item: Huge Kubernetes and Serverless Advocate
-        link:
+  interests:
+    - item: European 14th-19th Century History
 
-      - item: Programming
-        link:
+    - item: Public Infrastructure and Rail
+
+    - item: Web-Development
 
 career-profile:
-    title: Career Profile
-    summary: |
-        Welsh-born German speaking backend engineer with a focus on cloud native technologies I'm always looking 
-        for the latest and greatest advancements in DevOps and Cloud to help enhance industries on their path to digitisation. 
-        I'm at my best with a strong, multi-disciplined, goal-orientated team working in an agile-scrum format. 
-        
-        I have a strong skill set in system architecture, cloud enablement, and cluster orchestration and design. 
-        My programming skills are specialised in postgreSQL, TimescaleDB, Python3, and C# with DevOps skills specialised in 
-        Docker, Kubernetes, Azure and Kafka.
+  title: Career Profile
+  summary: |
+    Welsh born web-developer with a focus on Python based technologies. I'm
+    always looking for new ways to improve my knowledge of all kinds of topics
+    from Domain Driven Design, to better ways of collaborating such as 
+    #NoEstimates and Kanban. Despite being an engineer at heart, I see myself
+    evolving into a "Product-Engineer" role, enabling better integration
+    between developers and project managers. As a naturally social person,
+    I'm at my best within a motivated, cross-functional, collaborative team
+    environment.
+    
+    I have a strong skill set in API design, container orchestration, and
+    data ingestion pipelines. I love to work with Python3.10+, FastAPI,
+    SQLAlchemy, Pydantic, PostgreSQL, TimeScaleDB, Docker, Helm, Kubernetes, 
+    Kafka, and Flink.
+
 education:
-    - degree: MEng Electrical and Electronic Engineering
-      university: Aston University
-      time: 2014-2018
-      details: |
-        Graduated with a First Class Honours degree, with a project specialising in a two-way communications subsystem for a CubeSat
-    - degree: Officer Cadet Graduation
-      university: Welbeck Defence Sixthform College - Royal Air Force
-      time: 2012-2014
+  - degree: MEng Electrical and Electronic Engineering
+    university: Aston University
+    time: 2014-2018
+    details: |
+      Graduated with a First Class Honours degree, with a project specialising 
+      in a two-way communications subsystem for a CubeSat
+  - degree: Officer Cadet Graduation
+    university: Welbeck Defence Sixthform College - Royal Air Force
+    time: 2012-2014
 experiences:
-    - role: Cloud Engineer
-      time: Jan 2021 - Present
-      company: corrux GmbH, Munich, Germany
-      details: |
-        Remote worker who refactored, and built up the deployment and operations of the corrux platform. 
-        During my 6 months specialising in DevOps, I rebuilt all our CICD pipelines into a best-in-class 
-        deployment system using GitHub Actions and Helm. Alongside this, I help setup local dev environments 
-        using a Helm Repository and KubeApps to enable developers to pick-and-choose the microservices 
-        they wish to run in a local environment.
+  - role: Full-Stack Engineer
+    time: August 2021 - Present
+    company: Tacto Technology GmbH, Munich, Germany
+    details: |
+    First of 10 to be employed at Tacto, I worked as a Full-Stack Engineer, with
+    a lean towards backend development! I helped enabled the platform built for 
+    sustainable procurement, by migrating from Django and producing a FastAPI 
+    backend designed with Domain Driven Design, Repository Pattern, Unit of Work
+    Pattern, Authorization, Authentication, Dynamic Migrations with Alembic and
+    auto-generated API specification for Frontend/Backend contracts!
 
-        With help from the CTO, we re-imagined our QA system which led to a dramatic decrease in the bugs 
-        detected in our production environment. I also managed a crisis situation whereby an Azure Kubernetes 
-        bug took out all container networking within our clusters. Due to the work on Helm Charts, I 
-        successfully migrated over 15 microservices within 1 hour to a fresh new cluster, 
-        which would have otherwise taken over a day with all of the configurations.
-        
-        - Helm Charts
-        - Kubernetes
-        - GitHub Actions
-        - KubeApps
-        - PyTest
-        - CodeCov
-        - Sentry.io
-        - DevOps
-        - Python3
-    - role: Backend Engineer
-      time: Feb 2020 - Jan 2021
-      company: corrux GmbH, Munich, Germany
-      details: |
-        As a Backend Engineer I helped deliver machine-to-user pipelines to facilitate 
-        effective usage of heavy industrial data. Being in the forefront of cloud native 
-        innovation, I create solutions using technologies such as Kubernetes, Azure, Python 
-        & Go to create fast, resource efficient, and most importantly scalable to the needs 
-        of our customers.
+    - Python3.9+
+    - React.js
+    - MaterialUI v5
+    - FastAPI
+    - Pydantic
+    - SQLAlchemy
+    - Kubernetes
+    - Helm
+    - ArgoCI
+    - GitLab CI
 
-        As part of a team effort, self-organised a major architectural overhaul of our backend 
-        to meet production standard scalable software. This involved moving from container 
-        orchestration to a Azure based serverless application, utilising Kafka messaging service, 
-        C#/Python Azure Functions and switching from an outdated and bulky Flask API to Fast API. 
-        Was able to provision over 1 billion datapoints in 24hours, and process them into relevant 
-        timeseries tables.
-
-        Combined with the tech aspects of my duties, I became the Agile Coach of the team to 
-        support our CTOs new vision on way of working, and help facilitate team alignment through the 
-        working methods of Agile.
-
-        - Kubernetes
-        - Apache Kafka
-        - Azure Serverless Functions
-        - Flink
-        - Docker
-        - Python3
-        - C#
-        - FastAPI
-        - PostgreSQL
-        - TimescaleDB
-    - role: Software Developer
-      time: May 2019 - Feb 2020
-      company: ProSiebenSat.1 Tech Solutions
-      details: |
-        Moved from Data Technology into the newly formed AI Platform Services team in ProSiebenSat.1 
-        Tech Solutions as a full Software Developer! Completely refactored our AI Platform Project, 
-        from a legacy single code base, into a cloud distributed micro-service framework using Kubernetes, 
-        GitLab, AWS, GCP and various third party machine learning frameworks.
-
-        - Kubernetes
-        - Docker
-        - Python3
-        - FFMPEG
-        - PostgreSQL
-    - role: Junior Software Developer
-      time: Sept 2018 - May 2019
-      company: ProSiebenSat.1 Media SE
-      details: |
-        As a Junior Software Developer in the Department of Data Technology, I contributed to the development 
-        of backend related services for containerising machine learning sequences, working with Python3 and SQL. 
-        I mainly worked with the systems administration of Linux based servers and worked alongside senior developers 
-        on a cloud transformation project, which involved moving our internal systems to cloud platforms such as 
-        Google Cloud Platform and AWS. Alongside this, I am worked extensively on developing a new workflow mechanism, 
-        using a queuing system for ML services.
-
-        - Docker
-        - Python3
-        - PostgreSQL
-        - Java
+  - role: Cloud Engineer
+    time: Jan 2021 - August 2021
+    company: corrux GmbH, Munich, Germany
+    details: |
+      Successfully aquired by Gropyus GmbH in August 2021!
+      
+      Remote worker who refactored, and built up the deployment and operations 
+      of the corrux platform. During my 6 months specialising in DevOps, I 
+      rebuilt all our CICD pipelines into a best-in-class deployment system 
+      using GitHub Actions and Helm. Alongside this, I help setup local dev 
+      environments using a Helm Repository and KubeApps to enable developers 
+      to pick-and-choose the microservices they wish to run in a local 
+      environment.
+      
+      With help from the CTO, we re-imagined our QA system which led to a 
+      dramatic decrease in the bugs detected in our production environment. I 
+      also managed a crisis situation whereby an Azure Kubernetes bug took out 
+      all container networking within our clusters. Due to the work on Helm 
+      Charts, I successfully migrated over 15 microservices within 1 hour to a 
+      fresh new cluster, which would have otherwise taken over a day with all 
+      of the configurations.
+      
+      - Helm Charts
+      - Kubernetes
+      - GitHub Actions
+      - KubeApps
+      - PyTest
+      - CodeCov
+      - Sentry.io
+      - DevOps
+      - Python3
+  - role: Backend Engineer
+    time: Feb 2020 - Jan 2021
+    company: corrux GmbH, Munich, Germany
+    details: |
+      As a Backend Engineer I helped deliver machine-to-user pipelines to 
+      facilitate effective usage of heavy industrial data. Being in the 
+      forefront of cloud native innovation, I create solutions using 
+      technologies such as Kubernetes, Azure, Python & Go to create fast, 
+      resource efficient, and most importantly scalable to the needs of our 
+      customers.
+      
+      As part of a team effort, self-organised a major architectural overhaul of 
+      our backend to meet production standard scalable software. This involved 
+      moving from container orchestration to a Azure based serverless 
+      application, utilising Kafka messaging service, C#/Python Azure Functions 
+      and switching from an outdated and bulky Flask API to Fast API. Was able 
+      to provision over 1 billion datapoints in 24hours, and process them into 
+      relevant timeseries tables.
+      
+      Combined with the tech aspects of my duties, I became the Agile Coach of 
+      the team to support our CTOs new vision on way of working, and help 
+      facilitate team alignment through the working methods of Agile.
+      
+      - Kubernetes
+      - Apache Kafka
+      - Azure Serverless Functions
+      - Flink
+      - Docker
+      - Python3
+      - C#
+      - FastAPI
+      - PostgreSQL
+      - TimescaleDB
+  - role: Software Developer
+    time: May 2019 - Feb 2020
+    company: ProSiebenSat.1 Tech Solutions
+    details: |
+      Moved from Data Technology into the newly formed AI Platform Services team
+      in ProSiebenSat.1 Tech Solutions as a full Software Developer! Completely 
+      refactored our AI Platform Project, from a legacy single code base, into a
+      cloud distributed micro-service framework using Kubernetes, GitLab, AWS, 
+      GCP and various third party machine learning frameworks.
+      
+      - Kubernetes
+      - Docker
+      - Python3
+      - FFMPEG
+      - PostgreSQL
+  - role: Junior Software Developer
+    time: Sept 2018 - May 2019
+    company: ProSiebenSat.1 Media SE
+    details: |
+      As a Junior Software Developer in the Department of Data Technology, I 
+      contributed to the development of backend related services for 
+      containerising machine learning sequences, working with Python3 and SQL. I
+      mainly worked with the systems administration of Linux based servers and 
+      worked alongside senior developers on a cloud transformation project, 
+      which involved moving our internal systems to cloud platforms such as 
+      Google Cloud Platform and AWS. Alongside this, I am worked extensively on 
+      developing a new workflow mechanism, using a queuing system for ML 
+      services.
+      
+      - Docker
+      - Python3
+      - PostgreSQL
+      - Java
 projects:
-    title: Projects
-    intro: >
-        I've mainly worked on backend oriented projects, but I'm really not afraid to get my hands a bit dirty on some legacy code!
-        I thoroughly enjoy cloud transformation projects, and feel I excell with serverless or kubernetes!
-    assignments:
-      - title: Q-Engine
-        link: "#hook"
-        tagline: "A Kubernetes Orchestration Engine, for timed parallel and sychronous AI microservices"
-        
-      - title: Python API Refactoring
-        link: "#"
-        tagline: "Managed the refactored of a legacy poorly documented FlaskAPI to a modern, containerised, FastAPI"
-        
-      - title: Hybrid ML Learning System
-        link: "#"
-        tagline: "Co-Developed a system designed to automatically retrain ML models via user input"
-        
+  title: Projects
+  intro: >
+
+  assignments:
+    - title: FastAPI-Mail (Open Source)
+      tagline: | 
+      Contributed by implemented a parser for mail headers, allowing custom
+      headers to be applied, enabling metric collection by third-party providers
+      link: https://github.com/sabuhish/fastapi-mail/pull/118
+    - title: Full-Stack Portfolio
+      tagline: | 
+      This is my evolving portfolio, that displays all my knowledge of
+      programming. The system ingests data from AEMP2.0 Construction Platforms,
+      and orchestrates them. Allows users to add machines, metrics, and 
+      generates weekly/monthly pdf reports.
+      link: https://github.com/SionAbes/fullstack-portfolio
+    - title: Q-Engine
+      tagline: | 
+      A Kubernetes Orchestration Engine, for timed parallel and sychronous AI 
+      microservices.
+    - title: Hybrid ML Learning System
+      tagline: |
+      Co-Developed a system with Luminovo GmbH to automatically retrain ML 
+      models via user input.
+
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python3
-        level: 100%
+  toolset:
+    - name: Python3
+      level: 100%
 
-      - name: Kubernetes
-        level: 100%
+    - name: Kubernetes
+      level: 100%
 
-      - name: FastAPI/FlaskAPI
-        level: 100%
-        
-      - name: PostgreSQL
-        level: 100%
-        
-      - name: C#
-        level: 75%
-        
-      - name: Apache Kafka
-        level: 75%
+    - name: FastAPI/Flask
+      level: 100%
 
-      - name: GitHub Actions/Azure DevOps
-        level: 75%
+    - name: PostgreSQL
+      level: 100%
+
+    - name: Apache Kafka
+      level: 75%
+
+    - name: GitHub Actions/Azure DevOps
+      level: 75%
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
