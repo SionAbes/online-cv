@@ -16,7 +16,7 @@ sidebar:
   phone: +49 176 8452 4699
   linkedin: sionabraham
   github: sionabes
-  telegram: sionabraham # add your nickname without '@' sign
+  telegram: sionabraham
 
   languages:
     - idiom: English
@@ -52,6 +52,9 @@ career-profile:
     data ingestion pipelines. I love to work with Python3.10+, FastAPI,
     SQLAlchemy, Pydantic, PostgreSQL, TimeScaleDB, Docker, Helm, Kubernetes, 
     Kafka, and Flink.
+    
+    You will often see me between writing Notion pages of notes, with my terminal 
+    open firefighting, or constantly running tests in PyCharm doing TDD!
 
 education:
   - degree: MEng Electrical and Electronic Engineering
@@ -69,7 +72,7 @@ experiences:
     company: Memfault, Berlin, Germany
     details: |
       Worked to create a Device Reliability Platform, which helped enable 
-      hardware firmsbetter monitor, update, and debug their devices. The 
+      hardware firms better monitor, update, and debug their devices. The 
       monorepo consisted of many moving parts from Linux, Android, and MCU 
       based SDKs, to a highly customised Flask API using SQLAlchemy and Celery. 
       During my time at Memfault, I helped deliver a bulk action mechanism 
