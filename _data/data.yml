@@ -138,7 +138,7 @@ experiences:
       - CodeCov
       - Sentry.io
       - DevOps
-      - Python3
+      - Python3.10+
   - role: Backend Engineer
     time: Feb 2020 - Jan 2021
     company: corrux GmbH, Munich, Germany
@@ -167,7 +167,7 @@ experiences:
       - Azure Serverless Functions
       - Flink
       - Docker
-      - Python3
+      - Python3.7+
       - C#
       - FastAPI
       - PostgreSQL
@@ -184,7 +184,7 @@ experiences:
       
       - Kubernetes
       - Docker
-      - Python3
+      - Python3.6+
       - FFMPEG
       - PostgreSQL
   - role: Junior Software Developer
@@ -202,7 +202,7 @@ experiences:
       services.
       
       - Docker
-      - Python3
+      - Python2.7+
       - PostgreSQL
       - Java
 projects:
