@@ -1,13 +1,13 @@
 Hi There!
 
-I'm Siôn, which is Welsh for Sean/Johannes/Ivan and I work as a cloud native engineer in the backend domain.
+I'm Siôn, which is Welsh for Sean/Johannes/Ivan and I work as a Backend Developer.
 
 - I really enjoy working with the following technologies, and always keen to learn more in the cloud space whenever possible:
-	- Python3.7+ :snake:
-	- Golang
+	- Python3.10 :snake:
 	- PostgreSQL
-	- Serverless Functions
-	- Azure
+	- Pydantic
+	- FastAPI
+	- PyTest
 	- Docker
 	- Kubernetes
 	- Helm Charts
