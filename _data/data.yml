@@ -8,8 +8,8 @@ sidebar:
 
   # Profile information
   name: Siôn Nicholas Abraham
-  tagline: Backend Engineer - Python
-  avatar: image.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  tagline: Python Backend Developer
+  avatar: image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: sionabraham95@gmail.com
@@ -67,7 +67,7 @@ education:
     university: Welbeck Defence Sixthform College - Royal Air Force
     time: 2012-2014
 experiences:
-  - role: Software Engineer
+  - role: Software Developer
     time: July 2022 - Present
     company: Memfault, Berlin, Germany
     details: |
@@ -86,8 +86,8 @@ experiences:
       - Celery
       - MyPy
 
-  - role: Full-Stack Engineer
-    time: August 2021 - Present
+  - role: Software Developer
+    time: August 2021 - July 2022
     company: Tacto Technology GmbH, Munich, Germany
     details: |
       First of 10 to be employed at Tacto, I worked as a Full-Stack Engineer, with
@@ -108,7 +108,7 @@ experiences:
       - ArgoCI
       - GitLab CI
 
-  - role: Cloud Engineer
+  - role: Cloud Developer
     time: Jan 2021 - August 2021
     company: corrux GmbH, Munich, Germany
     details: |
@@ -139,7 +139,7 @@ experiences:
       - Sentry.io
       - DevOps
       - Python3.10+
-  - role: Backend Engineer
+  - role: Backend Developer
     time: Feb 2020 - Jan 2021
     company: corrux GmbH, Munich, Germany
     details: |
@@ -222,14 +222,6 @@ projects:
         and orchestrates them. Allows users to add machines, metrics, and 
         generates weekly/monthly pdf reports.
       link: https://github.com/SionAbes/fullstack-portfolio
-    - title: Q-Engine
-      tagline: | 
-        A Kubernetes Orchestration Engine, for timed parallel and sychronous AI 
-        microservices.
-    - title: Hybrid ML Learning System
-      tagline: |
-        Co-Developed a system with Luminovo GmbH to automatically retrain ML 
-        models via user input.
 
 skills:
   title: Skills &amp; Proficiency
